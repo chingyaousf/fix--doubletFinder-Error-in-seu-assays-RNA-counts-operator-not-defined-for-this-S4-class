@@ -68,6 +68,6 @@ Use the **`remotes`** package to install the modified DoubletFinder package from
 
 ## **Download the Fixed Script**
 
-You can download the fixed script from my GitHub repository .
+You can download the fixed doubletFinder.R from my GitHub repository here [fixed_doubletFinder.R](https://github.com/chingyaousf/fix--doubletFinder-Error-in-seu-assays-RNA-counts-operator-not-defined-for-this-S4-class/blob/main/doubletFinder.R "fixed_doubletFinder.R")
 
 I hope this fix is helpful. If you encounter any issues or have questions, please feel free to open an issue on the repository or contact me.
